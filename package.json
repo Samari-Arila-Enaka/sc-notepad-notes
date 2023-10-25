@@ -9,7 +9,8 @@
   "keywords": [],
   "author": "Samari Arila Enaka",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-mustache": "^5.0.0"
   },
   "dependencies": {
     "html-minifier": "^4.0.0"
