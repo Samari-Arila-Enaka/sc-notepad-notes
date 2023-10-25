@@ -20,7 +20,7 @@ function html() {
             });
             return file.contents = bufferFile;
         })
-        .pipe(dest('dist'));
+        // .pipe(dest('dist'));
 }
 
 function templateBuild() {
