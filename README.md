@@ -7,7 +7,7 @@ This is just a test for now. you should be able to click on the copy button and 
 ## How to use
 1. Click on the copy button next to the note you want to copy
 2. Open the in-game notepad
-3. Click on the 'New Note' button and give your note a name
+3. Click on the 'New Note' button and give your note a name. Each note has a title if you wish to copy that.
 4. click inside the empty note and press Ctrl+V to paste the note
 
 ## Notes
@@ -40,9 +40,4 @@ This is just a test for now. you should be able to click on the copy button and 
 
 ```html
 <font size=13 color=#ffbfbfbf>Crumbling -- </font><font size=13 color=#ff00ff00><b>SAFE</b></font><br><font size=13 color=#ffbfbfbf>Decayed ---- </font><font size=13 color=#ff00ff00><b>SAFE</b></font><br><font size=13 color=#ffbfbfbf>Ruined ----- </font><font size=13 color=#ff00ff00><b>SAFE</b></font><br><font size=13 color=#ffbfbfbf>Forgotten -- </font><font size=13 color=#ffff0000><b>NOT SAFE</b></font><br><br><font size=13 color=#ffb2b2b2>Local ------ </font><font size=13 color=#ff00ff00><b>SAFE</b></font><br><font size=13 color=#ffb2b2b2>Regional --- </font><font size=13 color=#ff00ff00><b>SAFE</b></font><br><font size=13 color=#ffb2b2b2>Central ---- </font><font size=13 color=#ff00ff00><b>SAFE</b></font><br><font size=13 color=#ffb2b2b2>Unsecured -- </font><font size=13 color=#ffff0000><b>NOT SAFE</b></font><br><font size=13 color=#ffb2b2b2>AEGIS ------ </font><font size=13 color=#ffff0000><b>NOT SAFE</b></font><br><font size=13 color=#ffb2b2b2>SCC -------- </font><font size=13 color=#ffff0000><b>NOT SAFE</b></font><br><br><font size=13 color=#ffb2b2b2><b>Best to worst cans</b><br>Ruins / Databank ---- Null/WH<br>Remains / Mainframe --- Low/Null/WH<br>Rubble / Com Tower --- High/Low/Null/WH<br>Debris / Info Shard -- High/Low/Null/WH</font>
-```
-`test`
-
-```html
-<font size=13 color=#bfffffff></font> <font size=13 color=#ffd98d00><a href=showinfo:1374//890611786>CMOT Diddler</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1376//2121635933>Crispin Kado</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1377//93027866>Das d'Alembert</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1377//2121208519>Deor l'Matisse</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1373//2121716944>Dirkbutt</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1377//2115841617>Krallia Etug</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1377//2120816051>Nerialka</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1376//2119295977>Samari Arila Enaka</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1375//2121713880>Skathii</a></font> <font size=13 color=#bfffffff><br></font><font size=13 color=#ffd98d00><a href=showinfo:1378//1334819510>Xavec</a></font> <font size=13 color=#bfffffff></font>
 ```
