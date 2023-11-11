@@ -1,8 +1,11 @@
 # sc-notepad-notes
 Notes to copy and paste into in-game notepad
 
-This is just a test for now. you should be able to click on the copy button and then paste into the in-game notepad. Let me know what you think, and if it's worth pursuing.
+> [!IMPORTANT]
+> This is just a test for now. you should be able to click on the copy button and then paste into the in-game notepad. Let me know what you think, and if it's worth pursuing.
 
+> [!NOTE]
+> It can be handy to add the Notepad to your **Neocom** sidebar, or set a keyboard shortcut. I use `ALT`+`N`. 
 
 ## How to use
 1. Click on the copy button next to the note you want to copy
